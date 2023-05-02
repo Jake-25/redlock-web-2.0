@@ -2,11 +2,11 @@
 
 $host = 'db';
 
-$user = 'user';
+$user = 'Testdummy ';
 
-$pass = 'password';
+$pass = 'testpass';
 
-$mydatabase = 'MYSQL_DATABASE';
+$mydatabase = 'database';
 
 $conn = new mysqli($host, $user, $pass, $mydatabase);
 
